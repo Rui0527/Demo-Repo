@@ -11,3 +11,7 @@ edit-readme
 3. Third item
 [title](https://www.example.com)
 ![alt text](image.jpgmain
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
